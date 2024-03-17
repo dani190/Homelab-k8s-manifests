@@ -8,4 +8,4 @@ server:
   servicePort: 80
   serviceType: LoadBalancer
   serviceAnnotations:
-    metallb.universe.tf/loadBalancerIPs: 192.168.40.122
+    metallb.universe.tf/loadBalancerIPs: 10.20.0.53
